@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi there! I'm Angel Gabriel Paulin Azpilcueta
 
-<!--
-**LokitoAngel/LokitoAngel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineering student currently in my 7th semester at Universidad Autónoma de Querétaro (UAQ), close to graduation.
 
-Here are some ideas to get you started:
+## 💻 Skills and Technologies
+- **Programming Languages:** Python, JavaScript, C++, C#, PHP
+- **Web Development:** HTML, CSS, React, Node.js, Express
+- **Databases:** MySQL, MongoDB
+- **Tools & Environments:** Git, Linux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📜 Certifications
+- AWS Academy Graduate (AWS Academy Cloud Foundations) - as shown on my LinkedIn
+- English for IT 1 (Cisco)
+
+## 🌍 Languages
+- Spanish (Native)
+- English (C1)
+- French (A2)
+
+## 🔎 Pronouns
+- He/Him
+
+## 📚 Fun Facts
+I enjoy solving problems and puzzles, reading classic and modern literature, and continuously learning new technologies to expand my skill set.
