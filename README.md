@@ -13,12 +13,12 @@ I'm currently working on a <strong>Linux-based cluster project</strong> using to
 
 ### Certifications
 
-<ul>
-<li>AWS Academy Cloud Foundations</li>
-<li>AWS Academy Cloud Security Foundations</li>
-<li>English for IT 1 – Cisco Networking Academy</li>
-<li>English for IT 2 – Cisco Networking Academy</li>
-</ul>
+<p>
+  <img src="https://img.shields.io/badge/AWS%20Academy%20Cloud%20Foundations-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" height="35">
+  <img src="https://img.shields.io/badge/AWS%20Cloud%20Security%20Foundations-FF9900?style=for-the-badge&logo=amazonaws&logoColor=black" height="35">
+  <img src="https://img.shields.io/badge/English%20for%20IT%201-0A66C2?style=for-the-badge&logo=cisco&logoColor=white" height="35">
+  <img src="https://img.shields.io/badge/English%20for%20IT%202-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" height="35">
+</p>
 
 ---
 
@@ -70,6 +70,7 @@ I'm currently working on a <strong>Linux-based cluster project</strong> using to
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" height="35">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="35">
   <img src="https://img.shields.io/badge/GlusterFS-EF4223?style=for-the-badge&logoColor=white" height="35">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="35">
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" height="35">
 </p>
 
@@ -78,8 +79,8 @@ I'm currently working on a <strong>Linux-based cluster project</strong> using to
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lokitoangel&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokitoangel&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lokitoangel&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="480">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokitoangel&layout=compact&theme=tokyonight" alt="Top Languages" width="380">
 </p>
 
 ---
@@ -89,15 +90,13 @@ I'm currently working on a <strong>Linux-based cluster project</strong> using to
 <p align="left">
   <a href="mailto:azpil.pau@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" height="35">
-  </a>
-  <br/>
+  </a><br/>
   azpil.pau@gmail.com
 </p>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/angel-gabriel-paulin-azpilcueta-1aaa402a3/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="35">
-  </a>
-  <br/>
+  </a><br/>
   https://www.linkedin.com/in/angel-gabriel-paulin-azpilcueta-1aaa402a3/
 </p>
