@@ -13,12 +13,12 @@ I'm currently working on a <strong>Linux-based cluster project</strong> using to
 
 ### Certifications
 
-<p>
-  <img src="https://img.shields.io/badge/AWS%20Academy%20Cloud%20Foundations-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" height="35">
-  <img src="https://img.shields.io/badge/AWS%20Cloud%20Security%20Foundations-FF9900?style=for-the-badge&logo=amazonaws&logoColor=black" height="35">
-  <img src="https://img.shields.io/badge/English%20for%20IT%201-0A66C2?style=for-the-badge&logo=cisco&logoColor=white" height="35">
-  <img src="https://img.shields.io/badge/English%20for%20IT%202-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" height="35">
-</p>
+<ul>
+<li>AWS Academy Cloud Foundations</li>
+<li>AWS Academy Cloud Security Foundations</li>
+<li>English for IT 1 – Cisco Networking Academy</li>
+<li>English for IT 2 – Cisco Networking Academy</li>
+</ul>
 
 ---
 
