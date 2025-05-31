@@ -79,8 +79,8 @@ I'm currently working on a <strong>Linux-based cluster project</strong> using to
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lokitoangel&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="480">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokitoangel&layout=compact&theme=tokyonight" alt="Top Languages" width="380">
+  <img src="https://github-readme-stats.vercel.app/api?username=AngelGPaulin&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="480">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelGPaulin&layout=compact&theme=tokyonight" alt="Top Languages" width="380">
 </p>
 
 ---
